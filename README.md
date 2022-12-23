@@ -176,6 +176,7 @@ Prompts are the instructions given to diffusion models to manipulate their outpu
 * [PromptSearch](https://pagebrain.ai/promptsearch/?q=&page=1) - Yet another Stable Diffusion search engine but with public API
 * [Same Energy](https://same.energy/) - A visual search engine that returns images that have the same 'energy'. 
 * [PublicPrompts](https://publicprompts.art/) - *Collection* of PublicPrompts
+* 🖊️ [aiTransformer Prompt Builder](https://aitransformer.net/PromptBuilder) - Help build text prompts intuitively using an Image To Text tool to generate detailed text descriptions from image, and 800+ special Textual Inversion terms and often-used generic terms with sample images.
 
 ### Specialized Usecases
 
@@ -246,4 +247,5 @@ Tutorials and high quality educational resources
 * 🖊️💵 [Starry AI (IOS)](https://apps.apple.com/us/app/starryai-create-art-with-ai/id1580512844) - Another IOS app offering stable diffusion with preset art styles. 
 * 🖊️ [Stable Horde](https://stablehorde.net/) - Distributed stable diffusion cluster (think folding@home) with web, discord and telegram interfaces where joining with your GPU gives you priority. 
 * 🖊️💵 [Stable Diffusion as API](https://stablediffusionapi.com/) - Third party REST API into table Diffusion service.
+* 🖊️ [aiTransformer](https://aitransformer.net) - Free online image/video transformation tools, including Super Stylizer based on Stable Diffusion, supports txt2img, img2img and img2txt (clip-interrogator).
 
